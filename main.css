@@ -17,3 +17,17 @@ hr {
     font-family: 'Playfair Display', serif;
 }
 
+
+.collection-nav {
+	padding-top: 10px; 
+	font-family: 'Playfair Display', serif;
+	font-size: 1.2em;
+}
+
+.collection-nav a {color: #222;}
+
+.collection-nav a:hover {color: orange; text-decoration: none;}
+
+.collection-nav .item {padding-left: 10px;}
+
+
